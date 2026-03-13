@@ -38,3 +38,93 @@
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=AshishRanjanPandey&color=blue)
+
+
+## 🚀 Projects
+
+### 🌐 Portfolio Website
+A personal portfolio website showcasing my skills, projects, and achievements.
+
+**Tech Used:** HTML, CSS, JavaScript
+
+🔗 https://github.com/AshishRanjanPandey/portfolio
+
+
+### 🛒 E-commerce Frontend
+A responsive e-commerce website UI with product pages and cart design.
+
+**Tech Used:** HTML, CSS, JavaScript, React
+
+🔗 https://github.com/AshishRanjanPandey/ecommerce
+
+
+### 🧮 Calculator Website
+Apple iOS style calculator built using modern UI design.
+
+**Tech Used:** HTML, CSS, JavaScript
+
+🔗 https://github.com/AshishRanjanPandey/calculator
+
+
+## 📜 Certifications
+
+🏅 Google Cloud Certification  
+
+🏅 Google Cloud Facilitator Program  
+
+🏅 Google Data Analytics Certification  
+
+🏅 Fundamentals of Python & AI/ML (VITyarthi)
+
+
+## 🏆 Achievements
+
+⭐ B.Tech Student at VIT Bhopal  
+
+⭐ First Semester GPA: **9.67**
+
+⭐ Built multiple web development projects  
+
+⭐ Active learner in Data Structures and Algorithms
+
+
+# Hi 👋 I'm Ashish Pandey
+
+Introduction
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn  
+Email  
+
+---
+
+## 🚀 Skills
+
+(Java, Python, C++, React icons)
+
+---
+
+## 📊 GitHub Stats
+
+(stats card)
+
+---
+
+## 🚀 Projects
+
+(project list)
+
+---
+
+## 📜 Certifications
+
+(certifications list)
+
+---
+
+## 🏆 Achievements
+
+(achievements list)
