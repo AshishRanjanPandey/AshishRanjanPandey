@@ -9,15 +9,15 @@
 
 ## 🌐 Connect With Me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:EA4335&height=120&section=header&text=Connect%20With%20Me&fontSize=30&fontColor=ffffff&animation=twinkling" />
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/ashish-ranjan-pandey-785924328">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2&labelColor=000000" />
   </a>
   
   <a href="mailto:pandeyashish0329@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="60"/>
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335&labelColor=000000" />
   </a>
 </p>
 
