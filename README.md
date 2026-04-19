@@ -13,11 +13,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ashish-ranjan-pandey-785924328">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2&labelColor=000000" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashish&repo=LinkedIn&theme=tokyonight" />
   </a>
-  
+</p>
+
+<p align="center">
   <a href="mailto:pandeyashish0329@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Email-Me-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
