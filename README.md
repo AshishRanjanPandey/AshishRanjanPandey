@@ -9,15 +9,26 @@
 
 ## 🌐 Connect With Me
 
+<!-- Animated Capsule Header -->
 <p align="center">
-  <a href="https://linkedin.com/in/ashish-ranjan-pandey-785924328">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  
-  <a href="mailto:pandeyashish0329@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send%20Message-red?style=for-the-badge&logo=gmail" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4facfe,100:00f2fe&height=120&section=header&text=Let's%20Connect&fontSize=34&animation=scaleIn&fontColor=ffffff" />
 </p>
+
+<!-- Balanced Layout Using Table -->
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <a href="https://linkedin.com/in/ashish-ranjan-pandey-785924328">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60"/>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="mailto:pandeyashish0329@gmail.com">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="60"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ## 📊 GitHub Stats
