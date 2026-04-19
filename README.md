@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&duration=2000&pause=800&color=FF00FF&center=true&vCenter=true&width=650&lines=Hi%20👋%2C%20I'm%20Ashish%20Pandey;⚡%20Building%20Cool%20Things;🚀%20Full%20Stack%20Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=30&duration=2200&pause=800&color=0D47A1&center=true&vCenter=true&width=650&lines=Hi%20👋%2C%20I%20am%20Ashish%20Pandey;🚀%20Full%20Stack%20Developer;💡%20Problem%20Solver" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
