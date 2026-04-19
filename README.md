@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=800&color=FF00FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ashish+Pandey;⚡+Building+Cool+Things;🚀+Full Stack Developer" />
-</p>  >
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&duration=2000&pause=800&color=FF00FF&center=true&vCenter=true&width=650&lines=Hi%20👋%2C%20I'm%20Ashish%20Pandey;⚡%20Building%20Cool%20Things;🚀%20Full%20Stack%20Developer" />
+</p>
 
 ---
 
