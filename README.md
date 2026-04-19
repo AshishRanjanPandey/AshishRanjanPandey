@@ -1,9 +1,6 @@
-# Hi 👋 I'm Ashish Pandey
-
-🎓 B.Tech Student at VIT Bhopal  
-💻 Full Stack Developer  
-📊 Data Analyst  
-🚀 Passionate about coding and problem solving
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0072FF&height=200&section=header&text=Ashish%20Pandey&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</h1>
 
 ---
 
