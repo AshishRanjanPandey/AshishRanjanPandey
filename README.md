@@ -9,17 +9,13 @@
 
 ## 🌐 Connect With Me
 
-<h2 align="center">🌐 Connect With Me</h2>
-
 <p align="center">
   <a href="https://linkedin.com/in/ashish-ranjan-pandey-785924328">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashish&repo=LinkedIn&theme=tokyonight" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-</p>
-
-<p align="center">
+  
   <a href="mailto:pandeyashish0329@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Send%20Message-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
