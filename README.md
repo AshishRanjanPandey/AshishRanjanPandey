@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0072FF&height=200&section=header&text=Ashish%20Pandey&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=800&color=FF00FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ashish+Pandey;⚡+Building+Cool+Things;🚀+Full Stack Developer" />
+</p>  >
 
 ---
 
