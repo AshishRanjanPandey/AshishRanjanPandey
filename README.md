@@ -9,8 +9,17 @@
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/ashish-ranjan-pandey-785924328
-- Email: pandeyashish0329@gmail.com
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ashish-ranjan-pandey-785924328">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  
+  <a href="mailto:pandeyashish0329@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
+</p>
 
 
 ## 📊 GitHub Stats
