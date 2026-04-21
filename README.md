@@ -56,28 +56,21 @@
 
 ## 🚀 Projects
 
-### 🌐 Portfolio Website
-A personal portfolio website showcasing my skills, projects, and achievements.
+<h2 align="center">🚀 Projects</h2>
 
-**Tech Used:** HTML, CSS, JavaScript
+<p align="center">
+  <a href="https://github.com/AshishRanjanPandey/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshishRanjanPandey&repo=portfolio&theme=tokyonight" />
+  </a>
 
-🔗 https://github.com/AshishRanjanPandey/portfolio
+  <a href="https://github.com/AshishRanjanPandey/ecommerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshishRanjanPandey&repo=ecommerce&theme=tokyonight" />
+  </a>
 
-
-### 🛒 E-commerce Frontend
-A responsive e-commerce website UI with product pages and cart design.
-
-**Tech Used:** HTML, CSS, JavaScript, React
-
-🔗 https://github.com/AshishRanjanPandey/ecommerce
-
-
-### 🧮 Calculator Website
-Apple iOS style calculator built using modern UI design.
-
-**Tech Used:** HTML, CSS, JavaScript
-
-🔗 https://github.com/AshishRanjanPandey/calculator
+  <a href="https://github.com/AshishRanjanPandey/calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshishRanjanPandey&repo=calculator&theme=tokyonight" />
+  </a>
+</p>
 
 
 ## 📜 Certifications
