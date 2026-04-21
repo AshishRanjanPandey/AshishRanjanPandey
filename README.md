@@ -56,15 +56,17 @@
 
 ## 🚀 Projects
 
+<h2 align="center">🚀 My Projects</h2>
+
 <p align="center">
   <a href="https://github.com/AshishRanjanPandey/portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshishRanjanPandey&repo=portfolio&theme=default" />
   </a>
-
+  
   <a href="https://github.com/AshishRanjanPandey/ecommerce">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshishRanjanPandey&repo=ecommerce&theme=default" />
   </a>
-
+  
   <a href="https://github.com/AshishRanjanPandey/calculator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshishRanjanPandey&repo=calculator&theme=default" />
   </a>
