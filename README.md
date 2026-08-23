@@ -114,46 +114,40 @@
     <td width="50%" valign="top">
       <h3 align="center">🛒 E-Commerce Frontend</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/UI%2FUX-Tailored-00f2fe?style=flat-square"/>
+        <img src="https://skillicons.dev/icons?i=react,js,html,css" height="38" />
       </p>
-      <p>Modular e-commerce platform interface with responsive product catalog architecture, reactive client-side state handling, and instant cart updates.</p>
-      <div align="center">
+      <p>A modular e-commerce platform UI featuring responsive product catalogs, interactive category filtering, and dynamic state-driven cart workflows.</p>
+      <p align="center">
         <a href="https://github.com/AshishRanjanPandey/ecommerce">
           <img src="https://img.shields.io/badge/Codebase-100000?style=for-the-badge&logo=github&logoColor=00f2fe&labelColor=0d1117" />
         </a>
-      </div>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🎨 Developer Portfolio</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://skillicons.dev/icons?i=html,css,js" height="38" />
       </p>
-      <p>High-performance production portfolio engine designed for optimal asset loading, strict cross-device responsiveness, and clean interactive layouts.</p>
-      <div align="center">
+      <p>A high-performance personal developer showcase engineered for lightning-fast load times, semantic accessibility, and fluid responsive styling.</p>
+      <p align="center">
         <a href="https://github.com/AshishRanjanPandey/portfolio">
           <img src="https://img.shields.io/badge/Codebase-100000?style=for-the-badge&logo=github&logoColor=00f2fe&labelColor=0d1117" />
         </a>
-      </div>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" colspan="2">
-      <h3 align="center">🧮 Interactive Neumorphic Calculator</h3>
+      <h3 align="center">🧮 Neumorphic Calculator</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/CSS3-Neumorphism-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Engine-Custom_Math-00f2fe?style=flat-square"/>
+        <img src="https://skillicons.dev/icons?i=js,html,css" height="38" />
       </p>
-      <p align="center">An iOS-inspired computational calculator engineered with precision expression parsing, error boundary pipelines, and ultra-fluid keyframe transitions.</p>
-      <div align="center">
+      <p align="center">An Apple iOS-inspired computational tool with precision arithmetic expression parsing, glassmorphic UI states, and robust error boundaries.</p>
+      <p align="center">
         <a href="https://github.com/AshishRanjanPandey/calculator">
           <img src="https://img.shields.io/badge/Codebase-100000?style=for-the-badge&logo=github&logoColor=00f2fe&labelColor=0d1117" />
         </a>
-      </div>
+      </p>
     </td>
   </tr>
 </table>
