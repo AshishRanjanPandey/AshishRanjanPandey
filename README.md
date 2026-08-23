@@ -42,22 +42,34 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
+
+  <!-- Core Stats & Top Languages (Reliable Multi-Source Endpoint) -->
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=AshishRanjanPandey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00f2fe&icon_color=4facfe&text_color=c9d1d9" alt="Ashish's GitHub stats" />
+        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=AshishRanjanPandey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2fe&icon_color=4facfe&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="Ashish's GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishRanjanPandey&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00f2fe&text_color=c9d1d9" alt="Top Langs" />
+        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AshishRanjanPandey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2fe&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
       </td>
     </tr>
   </table>
-  
-  <!-- Streak Counter -->
+
+  <br/>
+
+  <!-- High-Uptime Streak Stats Card -->
   <p align="center">
-    <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=AshishRanjanPandey&theme=tokyonight&hide_border=true&background=00000000&ring=00f2fe&fire=4facfe&currStreakLabel=00f2fe" alt="GitHub Streak" />
+    <img width="95%" src="https://streak-stats.demolab.com?user=AshishRanjanPandey&theme=tokyonight&hide_border=true&background=0D1117&ring=00f2fe&fire=4facfe&currStreakLabel=00f2fe&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
   </p>
+
+  <!-- Animated Trophy/Badges Deck -->
+  <p align="center">
+    <img width="95%" src="https://github-profile-trophy.vercel.app/?username=AshishRanjanPandey&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </p>
+
 </div>
 
 ---
