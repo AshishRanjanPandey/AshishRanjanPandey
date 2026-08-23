@@ -153,10 +153,12 @@
 </table>
 
 ---
-
 ## 📜 Certifications
 
-```prolog
-[CERTIFIED] ── ☁️ Google Cloud Certified (Cloud Facilitator Track)
-[CERTIFIED] ── 📊 Google Data Analytics Professional
-[CERTIFIED] ── 🤖 Fundamentals of Python & AI/ML (VITyarthi)
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Cloud-Cloud_Facilitator_Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Google-Data_Analytics_Specialist-EA4335?style=for-the-badge&logo=google&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/VITyarthi-Python_&_AI/ML_Foundations-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
