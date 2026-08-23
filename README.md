@@ -155,10 +155,10 @@
 ---
 ## 📜 Certifications
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Google_Cloud-Cloud_Facilitator_Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Google-Data_Analytics_Specialist-EA4335?style=for-the-badge&logo=google&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/VITyarthi-Python_&_AI/ML_Foundations-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Cloud" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50" alt="Google Data Analytics" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python AI/ML" />
 </p>
