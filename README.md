@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Dynamic Typing Banner (Cyber / Hacker Aesthetic) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=600&color=00F2FE&center=true&vCenter=true&multiline=false&width=750&height=50&lines=%E2%9A%A1+AABHAY+RANJAN+PANDEY+%E2%9A%A1;Full-Stack+Architect+%7C+AI+Workflows;Competitive+Programmer+%7C+VIT+Bhopal;Google+Gemini+Student+Ambassador" alt="Dynamic Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=600&color=00F2FE&center=true&vCenter=true&multiline=false&width=750&height=50&lines=%E2%9A%A1+ASHISH+RANJAN+PANDEY+%E2%9A%A1;Full-Stack+Architect+%7C+AI+Workflows;Competitive+Programmer+%7C+VIT+Bhopal;Google+Gemini+Student+Ambassador" alt="Dynamic Typing Header" />
 
   <!-- Animated Live Metric Badges -->
   <p align="center">
