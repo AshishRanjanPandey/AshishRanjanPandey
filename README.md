@@ -49,6 +49,16 @@
 
 ---
 
+<div align="center">
+
+  <h3>🏙️ My GitHub Contribution Skyline</h3>
+  <a href="https://gitcity.natrajx.in/" target="_blank">
+    <img src="https://gitcity.natrajx.in/api/svg?username=AshishRanjanPandey" alt="Ashish's 3D GitHub City" width="100%" />
+  </a>
+  <p><em>Every commit builds a skyscraper. High activity creates a dense downtown!</em></p>
+
+</div>
+
 ## 🚀 Featured Projects
 
 <table>
