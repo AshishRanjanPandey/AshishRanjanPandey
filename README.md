@@ -171,13 +171,6 @@
 
 </div>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AshishRanjanPandey&theme=tokyo-night&bg_color=00000000&hide_border=true&color=00f2fe&line=4facfe&point=ffffff" alt="Activity Graph" />
-</div>
-
----
 
 ## 📜 Certifications & Achievements
 
