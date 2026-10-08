@@ -1,16 +1,25 @@
 <div align="center">
 
   <!-- Dynamic Typing Banner (Cyber / Hacker Aesthetic) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=600&color=00F2FE&center=true&vCenter=true&multiline=false&width=750&height=50&lines=%E2%9A%A1+ASHISH+RANJAN+PANDEY+%E2%9A%A1;Full-Stack+Architect+%7C+Core+Systems;Competitive+Programmer+%7C+Problem+Solver;VIT+Bhopal+University" alt="Dynamic Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=600&color=00F2FE&center=true&vCenter=true&multiline=false&width=750&height=50&lines=%E2%9A%A1+AABHAY+RANJAN+PANDEY+%E2%9A%A1;Full-Stack+Architect+%7C+AI+Workflows;Competitive+Programmer+%7C+VIT+Bhopal;Google+Gemini+Student+Ambassador" alt="Dynamic Typing Header" />
 
   <!-- Animated Live Metric Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-Shipping_Code_%F0%9F%9A%80-00F2FE?style=for-the-badge&labelColor=0d1117" alt="Status" />
-    <img src="https://img.shields.io/badge/Algorithm_Rank-Active_Solver_%E2%9A%A1-7928CA?style=for-the-badge&labelColor=0d1117" alt="Algorithms" />
-    <img src="https://img.shields.io/badge/GPA-9.67_First_Class_%F0%9F%8F%86-FF0080?style=for-the-badge&labelColor=0d1117" alt="GPA" />
+    <img src="https://img.shields.io/badge/Status-Building_Agents_%26_APIs_%F0%9F%9A%80-00F2FE?style=for-the-badge&labelColor=0d1117" alt="Status" />
+    <img src="https://img.shields.io/badge/DSA-Active_Problem_Solver_%E2%9A%A1-7928CA?style=for-the-badge&labelColor=0d1117" alt="Algorithms" />
+    <img src="https://img.shields.io/badge/GPA-9.67_%2F_10.0_%F0%9F%8F%86-FF0080?style=for-the-badge&labelColor=0d1117" alt="GPA" />
   </p>
 
 </div>
+
+---
+
+## 💡 About Me
+
+* **🎓 Academic Background**: B.Tech in Computer Science & Engineering at **VIT Bhopal University** (Expected 2028 | First Semester GPA: **9.67**).
+* **⚡ Leadership**: Official **Google Gemini Student Ambassador** (Ambassador ID: `GID 2451`), driving campus tech initiatives and developer enablement.
+* **🔥 Continuous Learning**: Actively executing the `#DrGVishwanathanChallenge` (100-day problem-solving & system design documentation sprint).
+* **🎯 Core Focus**: Scaling Full-Stack architectures, algorithmic problem solving (Java/Python), and integrating Multi-Agent / RAG AI pipelines.
 
 ---
 
@@ -40,16 +49,102 @@
 
 ---
 
+## 🚀 Featured Projects
 
-## 📊 GitHub Stats
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 NexusSpec / PIMRefine AI</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=python,streamlit,ai" height="38" />
+      </p>
+      <p>Autonomous B2B product data refineries built for hackathons, leveraging LLM APIs to systematically process, standardize, and structure messy supplier catalog feeds.</p>
+      <p align="center">
+        <a href="https://github.com/AshishRanjanPandey">
+          <img src="https://img.shields.io/badge/Codebase-100000?style=for-the-badge&logo=github&logoColor=00f2fe&labelColor=0d1117" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">👻 Ghost Keyboard</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=python,java" height="38" />
+      </p>
+      <p>A specialized security-focused steganography application designed to securely embed and extract encrypted text payload messages directly within host image files.</p>
+      <p align="center">
+        <a href="https://github.com/AshishRanjanPandey">
+          <img src="https://img.shields.io/badge/Codebase-100000?style=for-the-badge&logo=github&logoColor=00f2fe&labelColor=0d1117" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 Modular E-Commerce UI</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,js,html,css" height="38" />
+      </p>
+      <p>A responsive e-commerce web client featuring category filtering, instant search indexing, and resilient state-driven cart transaction workflows.</p>
+      <p align="center">
+        <a href="https://github.com/AshishRanjanPandey/ecommerce">
+          <img src="https://img.shields.io/badge/Codebase-100000?style=for-the-badge&logo=github&logoColor=00f2fe&labelColor=0d1117" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧮 Neumorphic Calculator</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=js,html,css" height="38" />
+      </p>
+      <p>An iOS-inspired computational tool engineered with robust expression parsing, clean glassmorphic UI aesthetics, and precise decimal error boundaries.</p>
+      <p align="center">
+        <a href="https://github.com/AshishRanjanPandey/calculator">
+          <img src="https://img.shields.io/badge/Codebase-100000?style=for-the-badge&logo=github&logoColor=00f2fe&labelColor=0d1117" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Technical Stack & Skills
 
 <div align="center">
 
-  <!-- Core Stats & Top Languages (Reliable Multi-Source Endpoint) -->
+### 💻 Languages & Core Computer Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,r" />
+</p>
+
+### 🌐 Frontend & Web Engineering
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend, Cloud & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,gcp" />
+</p>
+
+### 🛠️ Tools, IDEs & Environments
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman" />
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics & Consistency
+
+<div align="center">
+
+  <!-- Core Stats & Top Languages -->
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=AshishRanjanPandey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2fe&icon_color=4facfe&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="Ashish's GitHub Stats" />
+        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=AshishRanjanPandey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2fe&icon_color=4facfe&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%">
         <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AshishRanjanPandey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2fe&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
@@ -64,96 +159,17 @@
     <img width="95%" src="https://streak-stats.demolab.com?user=AshishRanjanPandey&theme=tokyonight&hide_border=true&background=0D1117&ring=00f2fe&fire=4facfe&currStreakLabel=00f2fe&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
   </p>
 
-  <!-- Animated Trophy/Badges Deck -->
-  <p align="center">
-    <img width="95%" src="https://github-profile-trophy.vercel.app/?username=AshishRanjanPandey&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </p>
-
-</div>
-
----
-
-## 🚀 Skills
-
-<div align="center">
-
-### 💻 Languages & Core
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,r" />
-</p>
-
-### 🌐 Frontend & UI Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
-</p>
-
-### ⚙️ Backend, Cloud & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,gcp" />
-</p>
-
-### 🛠️ Developer Tools & Environments
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman" />
-</p>
-
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AshishRanjanPandey&theme=tokyo-night&bg_color=00000000&hide_border=true&color=00f2fe&line=4facfe&point=ffffff" alt="Ashish's github activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AshishRanjanPandey&theme=tokyo-night&bg_color=00000000&hide_border=true&color=00f2fe&line=4facfe&point=ffffff" alt="Activity Graph" />
 </div>
 
 ---
 
-## 🚀 Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 E-Commerce Frontend</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,js,html,css" height="38" />
-      </p>
-      <p>A modular e-commerce platform UI featuring responsive product catalogs, interactive category filtering, and dynamic state-driven cart workflows.</p>
-      <p align="center">
-        <a href="https://github.com/AshishRanjanPandey/ecommerce">
-          <img src="https://img.shields.io/badge/Codebase-100000?style=for-the-badge&logo=github&logoColor=00f2fe&labelColor=0d1117" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎨 Developer Portfolio</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js" height="38" />
-      </p>
-      <p>A high-performance personal developer showcase engineered for lightning-fast load times, semantic accessibility, and fluid responsive styling.</p>
-      <p align="center">
-        <a href="https://github.com/AshishRanjanPandey/portfolio">
-          <img src="https://img.shields.io/badge/Codebase-100000?style=for-the-badge&logo=github&logoColor=00f2fe&labelColor=0d1117" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" colspan="2">
-      <h3 align="center">🧮 Neumorphic Calculator</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=js,html,css" height="38" />
-      </p>
-      <p align="center">An Apple iOS-inspired computational tool with precision arithmetic expression parsing, glassmorphic UI states, and robust error boundaries.</p>
-      <p align="center">
-        <a href="https://github.com/AshishRanjanPandey/calculator">
-          <img src="https://img.shields.io/badge/Codebase-100000?style=for-the-badge&logo=github&logoColor=00f2fe&labelColor=0d1117" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-## 📜 Certifications
+## 📜 Certifications & Achievements
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Cloud" />
